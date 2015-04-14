@@ -32,6 +32,8 @@ version is 4.3.17.
   4. Set Zsh as your default shell:
 
         chsh -s /bin/zsh
+        or
+    edit /etc/passwd ,find the line for your current user and change the default shell
 
   5. Open a new Zsh terminal window or tab.
 
